@@ -1,0 +1,48 @@
+.Header{
+    display: flex;
+    justify-content: space-between;
+    width: 100vw;
+    height: 8vh;
+    margin: 0;
+    
+    /* background-color:black */
+    
+}
+.first-half{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #FF0000;
+    width: 75vw;
+}
+.second-half{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 25vw;
+    background-color: #003365;
+    gap: 2vw;
+}
+.nav-link{
+    display: flex;
+}
+ul{
+    display: flex;
+    gap: 2vw;
+    margin-left: 0;
+    color: white;
+    font-weight: 400;
+    list-style: none;
+}
+button{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: white;
+    box-shadow: none;
+    border-radius: 2vw;
+    gap: 0.5vw;
+    
+    font-size: 15px;
+    padding: 8px;
+}
