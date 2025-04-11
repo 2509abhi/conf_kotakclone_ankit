@@ -1,0 +1,41 @@
+.landing-page{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 80vh;
+
+
+}
+.main{
+    border: 2px solid gray;
+    padding: 40px;
+    border-radius: 20px;
+    background-image: url("./Designer.jpeg");
+    background-size: 700px 600px;
+    
+}
+.Credentials{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-decoration: underline;
+    
+
+}
+input{
+    width: 40vw;
+    height: 2vw;
+    border-radius: 6px;
+    font-size: 20px;
+    color: rgb(182, 174, 174);
+    background-color: black;
+    font-style: italic;
+    font-weight: 400;
+}
+.cardB{
+    margin-top: 20px;
+}
+.cardB:hover{
+    background-color: #2f75aed8;
+    /* color: white; */
+}

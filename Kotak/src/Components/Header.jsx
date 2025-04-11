@@ -9,13 +9,13 @@ function Header(){
                 </div>
                 <div className="nav-link">
                     <ul>
-                        <li>Home</li>
-                        <li>Banking</li>
-                        <li>Loan</li>
-                        <li>Account</li>
-                        <li>Privy league</li>
-                        <li>NRI Service</li>
-                        <li>Investor</li>
+                        <li><a href="">Home</a></li>
+                        <li><a href="">Banking</a></li>
+                        <li><a href="">Loan</a></li>
+                        <li><a href="">Account</a></li>
+                        <li><a href="">Privy league</a></li>
+                        <li><a href="">NRI Service</a></li>
+                        <li><a href="">Investor</a></li>
                     </ul>
 
                 </div>
